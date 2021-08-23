@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-I-N-D
 - 👀 I’m interested in Touhou and indiegames.
-- 🌱 I’m currently learning game development。
+- 🌱 I’m currently learning game development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
